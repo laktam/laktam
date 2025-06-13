@@ -2,7 +2,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laktam&hide=Jupyter%20Notebook)
 ## Resume
-[Download my resume](https://www.canva.com/design/DAGS667-ffs/oajqoyFRwoQ7d-VD2AHQlQ/edit?utm_content=DAGS667-ffs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Download my resume](https://flowcv.com/resume/1nkoeirfc6)
 
 <!--
 **laktam/laktam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
