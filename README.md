@@ -1,8 +1,16 @@
 ## Hi there 👋
+Software engineer, currently working with Java Angular.<br>
+Into code, systems, and understanding how things work under the hood.<br>
+[My resume](https://flowcv.com/resume/1nkoeirfc6)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laktam&hide=Jupyter%20Notebook)
-## Resume
-[Download my resume](https://flowcv.com/resume/1nkoeirfc6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laktam&layout=compact&hide=Jupyter%20Notebook&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laktam" />
+</p>
+
+
 
 <!--
 **laktam/laktam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
